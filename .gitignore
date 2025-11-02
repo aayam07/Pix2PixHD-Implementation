@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+venv/
+.env/
+*.egg-info/
+
+# Checkpoints and results
+checkpoints/
+results/
+logs/
